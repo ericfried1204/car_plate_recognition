@@ -1,0 +1,5 @@
+names:
+- car_plate
+nc: 1
+train: ./kaggle/working\train
+val: ./kaggle/working\valid
